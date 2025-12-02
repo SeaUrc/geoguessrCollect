@@ -34,7 +34,7 @@ This project implements a Convolutional Neural Network (CNN) using TensorFlow/Ke
 
 ---
 
-## ⚙️ CNN Architecture
+## CNN Architecture
 
 The model is a deep CNN designed to extract visual features from wide panoramic input images and output a pair: [longitude, latitude]
 
@@ -70,7 +70,7 @@ The model is a deep CNN designed to extract visual features from wide panoramic 
 
 ---
 
-## ▶️ Getting Started
+## Getting Started
 
 ### **1. Data Collection (Optional)**
 Run the automated scraper:
