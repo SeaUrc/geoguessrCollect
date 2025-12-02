@@ -1,4 +1,4 @@
-# Street View Geolocation Predictor
+# Street View Location Predictor
 
 This project implements a Convolutional Neural Network (CNN) using TensorFlow/Keras to predict **latitude and longitude** from **street-level panoramic images**. The images are preprocessed and fed into the CNN for a regression task.
 
