@@ -4,7 +4,7 @@ This project implements a Convolutional Neural Network (CNN) using TensorFlow/Ke
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 ### `train.py`
 - Main training script.
